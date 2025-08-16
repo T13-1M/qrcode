@@ -1,16 +1,16 @@
-# Proyek Pembuat Kode QR
+# QR Code Generator Project
 
-Proyek ini adalah skrip Python sederhana yang memungkinkan pengguna untuk membuat Kode QR dasar atau kustom melalui antarmuka baris perintah.
+This project is a simple Python script that allows users to create basic or custom QR Codes via a command-line interface.
 
-## Fitur
+## Features
 
-* **Kode QR Sederhana**: Membuat Kode QR dari tautan yang diberikan.
-* **Kode QR Kustom**: Membuat Kode QR dari tautan yang diberikan, dengan opsi untuk menyesuaikan warna latar belakang dan warna isian.
-* **Menu Baris Perintah**: Antarmuka berbasis menu yang mudah digunakan untuk memilih opsi pembuatan Kode QR.
+* **Simple QR Code**: Creates a QR Code from a given link.
+* **Custom QR Code**: Creates a QR Code from a given link, with options to customize the background and fill colors.
+* **Command-Line Menu**: An easy-to-use menu-based interface for selecting QR Code creation options.
 
-## Persyaratan
+## Requirements
 
-Anda perlu menginstal pustaka `qrcode`. Anda dapat menginstalnya menggunakan pip:
+You need to install the `qrcode` library. You can install it using pip:
 
 ```bash
 pip install qrcode
